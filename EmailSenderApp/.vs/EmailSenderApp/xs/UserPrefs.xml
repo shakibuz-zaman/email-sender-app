@@ -1,0 +1,5 @@
+﻿<Properties StartupConfiguration="{0F23F1A6-1D58-44B6-A71D-26D0B7A53837}|https">
+  <MonoDevelop.Ide.ItemProperties.EmailService FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EmailSenderApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" FirstBuild="True" />
+</Properties>
