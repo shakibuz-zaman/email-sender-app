@@ -1,5 +1,42 @@
 ﻿<Properties StartupConfiguration="{0F23F1A6-1D58-44B6-A71D-26D0B7A53837}|https">
-  <MonoDevelop.Ide.ItemProperties.EmailService FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.EmailSenderApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.EmailSenderApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/mdshakibuzzaman/Data/Personals/Learning FreeHand/email-sender-app/EmailSenderApp/EmailSenderApp/Controllers/WeatherForecastController.cs" relfile="EmailSenderApp/Controllers/WeatherForecastController.cs" line="42" column="1" />
+      <Breakpoint file="/Users/mdshakibuzzaman/Data/Personals/Learning FreeHand/email-sender-app/EmailSenderApp/EmailService/Services/EmailSender.cs" relfile="EmailService/Services/EmailSender.cs" line="74" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmailSenderApp/Controllers/WeatherForecastController.cs">
+    <Files>
+      <File FileName="EmailService/Class1.cs" Line="8" Column="1" />
+      <File FileName="EmailService/Models/Message.cs" Line="30" Column="31" />
+      <File FileName="EmailService/Models/IEmailSender.cs" Line="7" Column="28" />
+      <File FileName="EmailService/Services/EmailSender.cs" Line="74" Column="1" />
+      <File FileName="EmailSenderApp/Controllers/WeatherForecastController.cs" Line="29" Column="35" />
+      <File FileName="EmailSenderApp/Program.cs" Line="13" Column="57" />
+      <File FileName="EmailSenderApp/appsettings.json" Line="11" Column="1" />
+      <File FileName="EmailSenderApp/appsettings.Development.json" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EmailSenderApp" expanded="True">
+            <Node name="EmailSenderApp" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+            <Node name="EmailService" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
